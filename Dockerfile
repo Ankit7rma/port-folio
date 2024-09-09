@@ -1,5 +1,5 @@
 # All instructions to run this containerized app are given as comments throughout this file
-# Author: Son Nguyen
+# Author: Ankit Sharma
 
 # Use a specific version of Node.js as a base image
 FROM node:14

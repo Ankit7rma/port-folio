@@ -1,7 +1,7 @@
 {
   "name": "son-nguyen-hoang-portfolio",
   "version": "1.0.0",
-  "description": "Personal portfolio website of Son Nguyen Hoang, showcasing my skills and projects.",
+  "description": "Personal portfolio website of Ankit Sharma, showcasing my skills and projects.",
   "main": "index.js",
   "scripts": {
     "start": "http-server -o",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/hoangsonww/My-Portfolio-Website.git"
   },
-  "author": "Son Nguyen",
+  "author": "Ankit Sharma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hoangsonww/My-Portfolio-Website/issues"

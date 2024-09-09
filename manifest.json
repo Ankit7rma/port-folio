@@ -1,6 +1,6 @@
 {
-  "short_name": "Son Nguyen",
-  "name": "Son Nguyen Hoang - Portfolio",
+  "short_name": "Ankit Sharma",
+  "name": "Ankit Sharma - Portfolio",
   "icons": [
     {
       "src": "utils/icon-192x192.webp",
@@ -28,5 +28,5 @@
   "display": "standalone",
   "scope": "/",
   "theme_color": "#ffffff",
-  "description": "Son Nguyen Hoang's professional portfolio showcasing skills in software engineering, business analysis, and a wide range of projects."
+  "description": "Ankit Sharma's professional portfolio showcasing skills in software engineering, business analysis, and a wide range of projects."
 }
