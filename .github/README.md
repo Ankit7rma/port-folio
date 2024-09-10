@@ -1,14 +1,14 @@
 # Welcome to My Portfolio Website! 🌟
 
 <p align="center">
-  <a href="https://sonnguyenhoang.com">
-    <img src="../utils/portfolioWebsite.png" alt="Portfolio UI" style="border-radius: 8px">
+  <a href="">
+    <img src="../utils/portfolio.png" alt="Portfolio UI" style="border-radius: 8px">
   </a>
 </p>
 
 🚀 Welcome to the repository of my personal portfolio website! A seamless blend of style and functionality, showcasing my journey, projects, and skills in the tech world. Built with modern web technologies and a touch of creativity to provide an interactive user experience. Dive in, explore, and let’s connect!
 
-**Currently live at [sonnguyenhoang.com](https://sonnguyenhoang.com)!**
+**Currently live at []()!**
 
 ## Features
 
@@ -51,25 +51,24 @@
 ## Installation and Usage
 
 1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/hoangsonww/My-Portfolio-Website.git
-    cd My-Portfolio-Website
-    ```
-   
+   ```bash
+   git clone https://github.com/Ankit7rma/port-folio
+   cd My-Portfolio-Website
+   ```
 2. **Open with Live Server**
-    - If you're using VS Code, you can install the Live Server extension and start it to launch the website in your browser.
-    - Alternatively, simply open the `index.html` file in your browser.
-    - Also, you can run the following command:
-    ```bash
-    npm install
-    npm start
-    ```
+   - If you're using VS Code, you can install the Live Server extension and start it to launch the website in your browser.
+   - Alternatively, simply open the `index.html` file in your browser.
+   - Also, you can run the following command:
+   ```bash
+   npm install
+   npm start
+   ```
 
 ## Contributing
 
 While this is a personal project, feel free to fork the repository and make adjustments to the code to fit your portfolio's needs. Pull requests are welcome.
 However, please refrain from using my images and content for your own portfolio. Also, please do not use this repository to create a website that is an exact copy of mine.
-If you use any ideas or code from this repository, please credit me by linking back to this repository, at [https://github.com/hoangsonww/My-Portfolio-Website](https://github.com/hoangsonww/My-Portfolio-Website).
+If you use any ideas or code from this repository, please credit me by linking back to this repository, at [https://github.com/Ankit7rma/port-folio](https://github.com/Ankit7rma/port-folio).
 
 ## License
 
@@ -79,10 +78,10 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 I'm always open to connecting, collaborations, and conversations!
 
-- [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
-- [Email](mailto:hoangson091104@gmail.com)
-- [Portfolio](https://sonnguyenhoang.com)
+- [LinkedIn](https://www.linkedin.com/in/Ankit7rma)
+- [Email](ankitsharma290101@gmail.com)
+<!-- - [Portfolio](https://sonnguyenhoang.com) -->
 
 ---
 
-Created with ❤️ by [Son Nguyen](https://sonnguyenhoang.com) in 2023. Thanks for visiting today! 🚀
+Created with ❤️ by [Ankit Sharma]() in 2024. Thanks for visiting today! 🚀
