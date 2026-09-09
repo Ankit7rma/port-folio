@@ -1,5 +1,5 @@
 {
-  "name": "son-nguyen-hoang-portfolio",
+  "name": "ankit-sharma-portfolio",
   "version": "1.0.0",
   "description": "Personal portfolio website of Ankit Sharma, showcasing my skills and projects.",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoangsonww/My-Portfolio-Website.git"
+    "url": "git+https://github.com/Ankit7rma/port-folio.git"
   },
   "author": "Ankit Sharma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hoangsonww/My-Portfolio-Website/issues"
+    "url": "https://github.com/Ankit7rma/port-folio/issues"
   },
-  "homepage": "https://github.com/hoangsonww/My-Portfolio-Website",
+  "homepage": "https://github.com/Ankit7rma/port-folio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",

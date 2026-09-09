@@ -11,7 +11,7 @@ Currently, I am actively supporting and providing security updates for the follo
 
 ## 2. Reporting a Vulnerability
 
-To report a security vulnerability in Ankit Sharma's Portfolio, please send an email to [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com) or [snghoang@unc.edu](mailto:snghoang@unc.edu). I aim to respond within 48 hours. On confirming the vulnerability, I will work diligently to release a patch as soon as possible.
+To report a security vulnerability in Ankit Sharma's Portfolio, please send an email to [ankitsharma290101@gmail.com](mailto:ankitsharma290101@gmail.com). I aim to respond within 48 hours. On confirming the vulnerability, I will work diligently to release a patch as soon as possible.
 
 ## 3. Security Measures
 
@@ -30,8 +30,8 @@ In the event of a security breach or vulnerability that poses a risk to our user
 
 For security concerns or additional questions, please contact Ankit Sharma at:
 
-- Email: [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com) or [snghoang@unc.edu](mailto:snghoang@unc.edu)
-- Phone: +1 (413) 437-6759 or +91 9782172907
-- Location: Chapel Hill, North Carolina, USA 27514
+- Email: [ankitsharma290101@gmail.com](mailto:ankitsharma290101@gmail.com)
+- Phone: +91 9782172907
+- Location: Gurugram, Haryana, India
 
 ---

@@ -79,9 +79,9 @@ This project is open-source and available under the MIT License. See the [LICENS
 I'm always open to connecting, collaborations, and conversations!
 
 - [LinkedIn](https://www.linkedin.com/in/Ankit7rma)
-- [Email](ankitsharma290101@gmail.com)
-<!-- - [Portfolio](https://sonnguyenhoang.com) -->
+- [Email](mailto:ankitsharma290101@gmail.com)
+- [GitHub](https://github.com/Ankit7rma)
 
 ---
 
-Created with ❤️ by [Ankit Sharma]() in 2024. Thanks for visiting today! 🚀
+Created with ❤️ by [Ankit Sharma](https://github.com/Ankit7rma) in 2026. Thanks for visiting today! 🚀
