@@ -1,6 +1,6 @@
 {
   "short_name": "Ankit Sharma",
-  "name": "Ankit Sharma - Portfolio",
+  "name": "Ankit Sharma",
   "icons": [
     {
       "src": "utils/icon-192x192.webp",
@@ -28,5 +28,5 @@
   "display": "standalone",
   "scope": "/",
   "theme_color": "#ffffff",
-  "description": "Ankit Sharma's professional portfolio showcasing skills in software engineering, business analysis, and a wide range of projects."
+  "description": "Ankit Sharma, Senior Software Engineer building end-to-end production systems with React/Next.js, Node.js and PostgreSQL."
 }
